@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <img src="https://tryhackme-badges.s3.amazonaws.com/nerton.png" alt="TryHackMe">
+ 
 ## GitHub Stats:
 <div style="display: flex;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nertonm&theme=dark&hide_border=false"alt="GitHub Stats" style="height: 10em; flex: 1;">
