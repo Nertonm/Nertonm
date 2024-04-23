@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
  <img src="https://tryhackme-badges.s3.amazonaws.com/nerton.png" alt="TryHackMe">
  
 ## GitHub Stats:
