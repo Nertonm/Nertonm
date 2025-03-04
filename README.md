@@ -1,21 +1,17 @@
 
-<!--
-**Nertonm/Nertonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Don't let it burn
+Don't let it fade
+I'm sure I'm not being rude
 
-Here are some ideas to get you started:
+# 🎯 Estatísticas e Badges  
+<div align="center">
+  <img src="https://www.codewars.com/users/nertonm/badges/large" alt="Codewars Badge">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/nerton.png" alt="TryHackMe Badge">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <img src="https://www.codewars.com/users/nertonm/badges/large">
- <img src="https://tryhackme-badges.s3.amazonaws.com/nerton.png" alt="TryHackMe">
- 
- ## 📊 Estatísticas do GitHub
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nertonm&theme=dark&hide_border=false" alt="Streak Stats" height="150px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nertonm&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Linguagens mais usadas" height="150px"> <img src="https://github-readme-stats.vercel.app/api?username=Nertonm&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="150px"> </div>
-
+### 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nertonm&theme=dark&hide_border=false" alt="Streak Stats" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nertonm&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Linguagens mais usadas" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nertonm&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="150px">
+</div>
