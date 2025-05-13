@@ -4,7 +4,7 @@
 
 ---
 
-# 🎯 Estatísticas e Badges  
+### Estatísticas e Badges  
 
 <div align="center">
   <img src="https://www.codewars.com/users/nertonm/badges/large" alt="Codewars Badge">
@@ -13,7 +13,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+###  GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nertonm&theme=dark&hide_border=false" alt="Streak Stats" height="150px">
